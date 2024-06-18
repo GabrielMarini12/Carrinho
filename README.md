@@ -48,6 +48,7 @@ Simulando um carrinho de compras de um e-commerce 🛒
 
 As principais características do aplicativo são:
 - Consumir uma Api de produtos externa.
+- Utilização de Context Api.
 - Exibir os produtos de forma dinâmica.
 - Ver detlahes dos produtos.
 - Adicionar os produtos ao carrinho.
